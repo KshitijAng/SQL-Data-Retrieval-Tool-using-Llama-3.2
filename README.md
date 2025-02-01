@@ -39,8 +39,8 @@ After executing the SQL query, the results are returned and displayed in the Str
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/KshitijAng/SQLite-Data-Retrieval-Tool
+   cd SQLite-Data-Retrieval-Tool
    ```
 
 2. Install the required Python libraries:
